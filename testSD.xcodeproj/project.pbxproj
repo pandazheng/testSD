@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1914BE141A40261B00F38501 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1914BE131A40261B00F38501 /* main.swift */; };
 		198399C71990BECF00966844 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 198399C61990BECF00966844 /* AppDelegate.swift */; };
 		198399C91990BECF00966844 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 198399C81990BECF00966844 /* ViewController.swift */; };
 		198399CC1990BECF00966844 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 198399CA1990BECF00966844 /* Main.storyboard */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1914BE131A40261B00F38501 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		198399C11990BECF00966844 /* testSD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testSD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		198399C51990BECF00966844 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		198399C61990BECF00966844 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 			children = (
 				198399E31990BF2600966844 /* SDWebImage */,
 				198399C61990BECF00966844 /* AppDelegate.swift */,
+				1914BE131A40261B00F38501 /* main.swift */,
 				198399C81990BECF00966844 /* ViewController.swift */,
 				19839A161990C0DE00966844 /* testSD-Bridging-Header.h */,
 				198399CA1990BECF00966844 /* Main.storyboard */,
@@ -292,6 +295,7 @@
 			files = (
 				19839A0B1990BF2600966844 /* UIImage+MultiFormat.m in Sources */,
 				198399C91990BECF00966844 /* ViewController.swift in Sources */,
+				1914BE141A40261B00F38501 /* main.swift in Sources */,
 				19839A0D1990BF2600966844 /* UIImageView+WebCache.m in Sources */,
 				19839A081990BF2600966844 /* SDWebImagePrefetcher.m in Sources */,
 				19839A011990BF2600966844 /* NSData+ImageContentType.m in Sources */,
